@@ -1,5 +1,7 @@
 # Privacy-preserving-scheme-for-veritcal-federated-learning
-These are the two schemes proposed in our paper
+
+These are the two schemes proposed in our paper https://arxiv.org/abs/2207.11788
+
 All the required codes are available in code_repository.py, however, this is not directly used.
 One needs only to run 1-Main.py. To that end simply put the required dateset in the same directory as 1-Main.py and code_repository.py and run 1-Main.py (you would need to make sure the variables for choosing the preferred dataset are set in 1-Main.py). 
 
